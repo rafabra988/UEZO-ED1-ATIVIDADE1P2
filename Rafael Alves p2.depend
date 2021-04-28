@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617742733 source:c:\users\roxan\documents\ca\rafael alves e alexandre cavalcante p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+
+1617913994 source:c:\users\roxan\documents\ca\rafael alves p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+
